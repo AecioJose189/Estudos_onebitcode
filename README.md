@@ -1,6 +1,6 @@
 # [Estudo] Estudo plataforma OneBitCode 
 
-> **Desenvolvedores:** Aécio José
+> **Desenvolvedores:** Aécio José <br>
 > **Nível:** Misto
 
 ## Qual a ideia do projeto?
